@@ -11,4 +11,4 @@ classes or functions can be called from outside.
 
 hello.pj:
 public class main(@sel){
-;}
+println('Hello world');}
